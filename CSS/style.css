@@ -1,0 +1,46 @@
+body {
+  background-image: url(http://blog.hostbaby.com/wp-content/uploads/2013/07/scuffedstatic_dark_1920x1234.jpg);
+}
+
+.about-me-text {
+  line-height: 2em;
+  font-family: "Bitter", serif;
+  font-size: 19px;
+  font-weight: bold;
+  color: white;
+}
+
+.jumbotron-Color {
+  background-color: dimgrey;
+}
+
+.aboutImage {
+  width: 350px;
+  height: 350px;
+}
+
+.portfolio-images {
+  height: 425px;
+  width: 525px;
+  padding: 25px;
+}
+
+.card-body-style {
+  background-color: dimgrey;
+  text-align: center;
+  color: white;
+}
+
+.contact-style {
+  color: white;
+  font-size: 20px;
+}
+
+.submit-style {
+  padding: 15px 25px;
+  font-weight: bold;
+}
+
+.greenColor {
+  color: rgb(15, 236, 15);
+}

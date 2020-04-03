@@ -1,2 +1,1 @@
-# Responsive-Portfolio-HW
-Responsive webpage using bootstrap.
+This project utilized Bootstrap, Google Fonts, and an external style sheet to create an attractive and responsive webpage with an "About" section, a "Portfolio" section, and a "Contact" section. The goal was to mimic a webpage, biographical in nature, that displayed the ability to deploy tools such as Boostrap and make a webpage that could be viewed on both a widescreen computer and a smart phone. The project includes a navigation bar at the top and a footer, both of which apply the Bootstrap Navbar class. In addition to these features, the webpage deployed here also includes the use of card stacks, jumbotrons, forms, and a button.
